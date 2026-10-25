@@ -1,6 +1,6 @@
 # C Suite Sherpas website
 
-Static site for csuitesherpas.com. Plain HTML/CSS, no build step. Cloudflare serves the files as-is.
+Static site for csuitesherpas.com. Plain HTML/CSS, no build step. Cloudflare serves everything in `public/` as-is.
 
 - `index.html`: home page (services, experience, about, contact form)
 - `privacy.html`, `terms.html`, `404.html`
